@@ -5,3 +5,13 @@ The model aims to mitigate potential risks and protect the organization from fin
 By training the model on labelled data, it can effectively distinguish between legitimate and suspicious transactions.  
 The model was built using supervised machine learning techniques and leverages the power of data-driven insights to enhance fraud prevention efforts.
 The dataset was acquired from a Nigerian Commercial Bank.
+
+## Tools:  
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Jupyter Notebook  
+- Imblearn  
+- Tensor-Flow
